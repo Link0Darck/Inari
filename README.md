@@ -1,0 +1,2 @@
+# Inari
+My Discord bot
