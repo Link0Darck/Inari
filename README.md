@@ -12,7 +12,7 @@
   •
   <a href="#Features">Features</a>
   •
-  <a href="https://discord.com/api/oauth2/authorize?client_id=938853830509068309&permissions=8&scope=bot%20applications.commands">Added Inari</a>
+  <a href="https://inari.neko-world.ovh/invite">Added Inari</a>
   •
   <a href="#license">License</a>
   •
@@ -22,10 +22,10 @@
 ## ❓ About
 
 Inari is a Discord robot, constantly evolving. You can invite her to your Discord server using the link below!
-[Inari Bot] (https://discord.com/api/oauth2/authorize?client_id=938853830509068309&permissions=8&scope=bot%20applications.commands)
+[Inari Bot](https://inari.neko-world.ovh/invite)
 
 You can also join the official Inari support server for questions, suggestions and assistance!
-[Inari Support Server] (https://discord.com/invite/nQHSgmnF2k)
+[Inari Support Server](https://inari.neko-world.ovh/support)
 
 It comes with a variety of commands and good security against any kind of malicious attack.
 If you liked this repository, feel free to leave a star ⭐ to help promote Inari!
