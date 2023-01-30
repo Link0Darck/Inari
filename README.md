@@ -6,9 +6,9 @@
 
 <h3 align=center>A robot entirely built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
-<a href="https://inari.neko-world.ovh/"><img src="https://raw.githubusercontent.com/Link0Darck/Inari/main/Img/Inari.PNG"></a>
-
 <p align="center">
+  <a href="https://inari.neko-world.ovh/"><img src="https://raw.githubusercontent.com/Link0Darck/Inari/main/Img/Inari.PNG"></a>
+  
   <a href="#about">About</a>
   •
   <a href="#Features">Features</a>
