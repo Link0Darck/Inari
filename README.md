@@ -8,6 +8,9 @@
 
 <p align="center">
   <a href="https://inari.neko-world.ovh/"><img src="https://raw.githubusercontent.com/Link0Darck/Inari/main/Img/Inari.PNG"></a>
+</p>
+
+<p align="center">
   
   <a href="#about">About</a>
   •
