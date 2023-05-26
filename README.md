@@ -28,7 +28,7 @@ Inari is a Discord robot, constantly evolving. You can invite her to your Discor
 [Inari Bot](https://inari.neko-world.ovh/invite)
 
 You can also join the official Inari support server for questions, suggestions and assistance!
-[Inari Support Server](https://inari.neko-world.ovh/support)
+<br>[<img src="https://canary.discordapp.com/api/guilds/941750925649936404/widget.png?style=banner2">](https://discord.com/invite/nQHSgmnF2k)
 
 It comes with a variety of commands and good security against any kind of malicious attack.
 If you liked this repository, feel free to leave a star ⭐ to help promote Inari!
