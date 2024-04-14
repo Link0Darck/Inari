@@ -47,5 +47,5 @@ Released under the [Apache License 2.0](https://github.com/Link0Darck/Inari/blob
 
 ## 📜 Credits
 
-* **[𝔏𝔦𝔫𝑘 𝔇𝔞𝔯𝔠𝑘#0001](https://github.com/Link0Darck/)** - The creator of the bot.
-* **[𝓝𝓪𝔃𝓾𝓷𝓪#9586](https://github.com/Nazuna-UwU)** - she gives me ideas.
+* **[@link_darck](https://github.com/Link0Darck/)** - The creator of the bot.
+* **[@miss.miyuki](https://github.com/Nazuna-UwU)** - she gives me ideas.
